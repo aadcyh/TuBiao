@@ -2,10 +2,6 @@
   "name": "Emby图标",
   "description": "按照图标JPEG名称排序",
   "icons": [
-    {
-      "name": "105°",
-      "url": "https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/105.jpeg"
-    },
 	{
       "name": "1111",
       "url": "https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/1111.jpeg"
@@ -47,10 +43,6 @@
       "url": "https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/iris9.jpeg"
     },
     {
-      "name": "JMS",
-      "url": "https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/jms.jpeg"
-    },
-    {
       "name": "Lily",
       "url": "https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/lily.jpeg"
     },
@@ -81,10 +73,6 @@
     {
       "name": "墨云阁",
       "url": "https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/myg.jpeg"
-    },
-	{
-      "name": "Nya",
-      "url": "https://raw.githubusercontent.com/ekacfoeceipa/TuBiao/main/Emby/nya.jpeg"
     },
     {
       "name": "云海",
